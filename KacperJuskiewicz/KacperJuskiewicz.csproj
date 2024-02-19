@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\bootstrap\img\20170402_184451.jpg" />
+    <None Include="wwwroot\bootstrap\img\20171017_123245.jpg" />
+    <None Include="wwwroot\bootstrap\img\20171017_123335.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180130_215223.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180207_224337.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180518_095636.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180522_225127.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180621_183021.jpg" />
+    <None Include="wwwroot\bootstrap\img\20180729_232640.jpg" />
+    <None Include="wwwroot\bootstrap\img\45-degree-fabric-light.png" />
+  </ItemGroup>
+
+</Project>

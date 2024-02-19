@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KacperJuskiewicz.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KacperJuskiewicz.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20170402_184451.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20170402_184451.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20171017_123245.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20171017_123245.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20171017_123335.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20171017_123335.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180130_215223.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180130_215223.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180207_224337.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180207_224337.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180518_095636.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180518_095636.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180522_225127.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180522_225127.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180621_183021.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180621_183021.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\20180729_232640.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\20180729_232640.jpg"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\bootstrap\\img\\45-degree-fabric-light.png",
+      "PackagePath": "staticwebassets\\bootstrap\\img\\45-degree-fabric-light.png"
+    },
+    {
+      "Id": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KacperJuskiewicz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KacperJuskiewicz.props",
+      "PackagePath": "build\\KacperJuskiewicz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KacperJuskiewicz.props",
+      "PackagePath": "buildMultiTargeting\\KacperJuskiewicz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KacperJuskiewicz.props",
+      "PackagePath": "buildTransitive\\KacperJuskiewicz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

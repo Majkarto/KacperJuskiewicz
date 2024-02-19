@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projekty\\blazor\\KacperJuskiewicz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|d:\\projekty\\blazor\\kacperjuskiewicz\\kacperjuskiewicz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E958329-463E-4C44-9522-14C2377CFEAE}|KacperJuskiewicz\\KacperJuskiewicz.csproj|solutionrelative:kacperjuskiewicz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "KacperJuskiewicz\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:24:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "KacperJuskiewicz\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:24:44.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "KacperJuskiewicz\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:13:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\App.razor",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Components\\App.razor",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\App.razor",
+              "RelativeToolTip": "KacperJuskiewicz\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:12:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\wwwroot\\app.css",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\wwwroot\\app.css",
+              "RelativeToolTip": "KacperJuskiewicz\\wwwroot\\app.css",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswLsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-19T22:12:12.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Components\\Routes.razor",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Components\\Routes.razor",
+              "RelativeToolTip": "KacperJuskiewicz\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:12:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Program.cs",
+              "RelativeDocumentMoniker": "KacperJuskiewicz\\Program.cs",
+              "ToolTip": "D:\\projekty\\blazor\\KacperJuskiewicz\\KacperJuskiewicz\\Program.cs",
+              "RelativeToolTip": "KacperJuskiewicz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T22:11:40.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
